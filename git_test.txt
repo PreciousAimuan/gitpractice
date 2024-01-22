@@ -1,1 +1,2 @@
 Hello, I"m precious.
+Git is fun!
